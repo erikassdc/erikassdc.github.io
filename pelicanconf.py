@@ -21,6 +21,7 @@ AUTHOR_FEED_RSS = None
 
 THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
 COVER='/home/matheus-os/print.png'
+COLOR_SCHEME_CSS='tomorrow.css'
 
 
 DEFAULT_PAGINATION = 10
