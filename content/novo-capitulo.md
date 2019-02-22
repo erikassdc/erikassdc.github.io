@@ -4,6 +4,7 @@ Category: namoro
 Tags: namoro, aniversario
 Slug: feliz-3-anos
 Author: Matheus (mozão)
+header_cover:theme/images/quadro-de-fotos-namoro.png
 og_image:theme/images/quadro-de-fotos-namoro.png
 Summary: Bem eu não fiz nada para a gente de 3 anos então eu resolvi criar essa postagem para nos parabenizar e finalmente poder começar um novo capítulo ao seu lado
 
