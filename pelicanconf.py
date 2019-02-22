@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 #Theme
 THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
-#HEADER_COVER = '/home/matheus-os/Downloads/Themes/pelican-clean/static/images/home-bg.jpg'
+HEADER_COVER='/home/matheus-os/Downloads/Themes/pelican-clean/static/images/home-bg.jpg'
 
 DEFAULT_PAGINATION = 10
 
