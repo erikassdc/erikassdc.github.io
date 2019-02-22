@@ -12,16 +12,9 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = u'pt'
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
 #Theme
 THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
-#HEADER_COVER='/home/matheus-os/Downloads/Themes/pelican-clean/static/images/home-bg.jpg'
+HEADER_COVER='/home/matheus-os/Downloads/Themes/pelican-clean/static/images/contact-bg.jpg'
 
 DEFAULT_PAGINATION = 10
 
