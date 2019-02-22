@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
-HEADER_COVER='/home/matheus-os/Imagens/imagens-aniversario/foto_aniversario.png'
+HEADER_COVER = 'static/my_image.png'
 COLOR_SCHEME_CSS='github.css'
 
 
