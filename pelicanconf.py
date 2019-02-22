@@ -20,9 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
-HEADER_COVER = 'static/my_image.png'
-COLOR_SCHEME_CSS='github.css'
-
+HEADER_COVER = '/home/matheus-os/Downloads/Themes/pelican-clean/static/images/home-bg.jpg'
 
 DEFAULT_PAGINATION = 10
 
