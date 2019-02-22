@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Matheus (moz\xe3o)'
 SITENAME = u'Feliz anivers\xe1rio meu amor'
-SITEURL = ''
+SITEURL = 'https://erikassdc.github.io/'
 
 PATH = 'content'
 
@@ -19,17 +19,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME='/home/matheus-os/Downloads/Themes/bricks'
+THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
+COVER='/home/matheus-os/print.png'
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
