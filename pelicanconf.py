@@ -14,7 +14,7 @@ DEFAULT_LANG = u'pt'
 
 #Theme
 THEME='/home/matheus-os/Downloads/Themes/pelican-clean'
-HEADER_COVER='/home/matheus-os/Downloads/Themes/pelican-clean/static/images/contact-bg.jpg'
+HEADER_COVER='theme/images/quadro-de-fotos.png'
 
 DEFAULT_PAGINATION = 10
 
